@@ -9,5 +9,5 @@ while i<len(fruits):
 print("\n=======using for loop=======\n")
 fruits=["Banana","Mango","Pineapple","Pomigranate"]
 
-for a in fruits:
-    print(a)
+for some_variable in fruits:
+    print(some_variable)
