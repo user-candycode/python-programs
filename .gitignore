@@ -1,1 +1,8 @@
-/home/candy/Documents/python/third/myprojectenv/
+# Ignore Python byte code files
+*.pyc
+
+# Ignore the virtual environment directory itself
+/third/myprojectenv/
+
+# Ignore pip-installed packages
+/lib/python*/site-packages/
