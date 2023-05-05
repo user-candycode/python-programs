@@ -1,0 +1,8 @@
+# Ignore Python byte code files
+*.pyc
+
+# Ignore the virtual environment directory itself
+/venv/
+
+# Ignore pip-installed packages
+/lib/python*/site-packages/
