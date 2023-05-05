@@ -4,6 +4,8 @@ while (True):
     if a == 'q':
         break
     try:
+        #this will run as far as possible then wherever it encounters an error it will switch to except
+        print("trying......")
         a = int(a)
         if a > 6:
             print("You enter a number greater than 6")
