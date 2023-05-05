@@ -6,3 +6,5 @@
 
 # Ignore pip-installed packages
 /lib/python*/site-packages/
+
+/home/candy/Documents/python/third/myprojectenv
