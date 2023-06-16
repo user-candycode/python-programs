@@ -1,0 +1,319 @@
+Shastripuram
+Agra (311)
+Nerul
+Navi Mumbai (308)
+Muradpur
+Patna (194)
+Kurla
+Mumbai (174)
+Rajbansi Nagar
+Patna (166)
+Sector-3B Avas Vikas Colony
+Agra (164)
+Talkatora
+Lucknow (157)
+Ramachandrapuram
+Hyderabad (157)
+Adarsh Nagar
+Jaipur (156)
+New Malakpet
+Hyderabad (153)
+Lalbagh
+West Lucknow
+Lucknow (152)
+Bollaram Industrial Area
+Hyderabad (148)
+Kompally Municipal Office
+Hyderabad (142)
+Transport Nagar
+Moradabad (140)
+R.K. Puram
+Delhi (139)
+Nacharam_TSIIC IALA
+Hyderabad (138)
+Deonar
+Mumbai (137)
+Mundka
+Delhi (136)
+Police Commissionerate
+Jaipur (135)
+Pusa
+Delhi (132)
+Bardowali
+Agartala (131)
+Govt. High School Shikarpur
+Patna (130)
+IIPHG Lekawada
+Gandhinagar (129)
+Gomti Nagar
+Lucknow (127)
+DRM Office Danapur
+Patna (124)
+NASA_AQCS_139 (122)
+Knowledge Park
+III
+Greater Noida (120)
+Delhi Institute of Tool Engineering
+Wazirpur
+Delhi (118)
+Sector 6 Panchkula
+Panchkula (118)
+Somajiguda
+Hyderabad (116)
+Asansol Court Area
+Asansol (115)
+Employment Office
+Moradabad (114)
+Mother Dairy Plant
+Parparganj
+Delhi (114)
+New Mandi
+Muzaffarnagar (113)
+ITI Shahdra
+Jhilmil Industrial Area
+Delhi (112)
+Mazgaon
+Mumbai (111)
+Pooth Khurd
+Bawana
+Delhi (110)
+Narela
+Delhi (107)
+NISE Gwal Pahari
+Gurugram (107)
+Padmapukur
+Howrah (106)
+Ghusuri
+Howrah (106)
+Sector-116
+Noida (106)
+Buddhi Vihar
+Moradabad (103)
+Ballygunge
+Kolkata (103)
+Central School
+Lucknow (103)
+Jadavpur
+Kolkata (102)
+Alipur
+Delhi (102)
+Anand Vihar
+Delhi (101)
+ITI Jahangirpuri
+Delhi (101)
+Rakhial
+Ahmedabad (101)
+National Institute of Malaria Research
+Sector 8
+Dwarka
+Delhi (99)
+Knowledge Park
+V
+Greater Noida (98)
+DITE Okhla
+Delhi (98)
+Samanpura
+Patna (98)
+Hyderabad US Consulate (97)
+Belur Math
+Howrah (97)
+Borivali East
+Mumbai (95)
+Sanjay Nagar
+Ghaziabad (94)
+Jai Bhim Nagar
+Meerut (94)
+ECIL Kapra
+Hyderabad (93)
+Shaheed Sukhdev College of Business Studies
+Rohini
+Delhi (92)
+Kashiram Nagar
+Moradabad (92)
+Kokapet
+Hyderabad (92)
+Sonia Vihar Water Treatment Plant DJB
+Delhi (92)
+Chandkheda
+Ahmedabad (92)
+Sanathnagar
+Hyderabad (92)
+Major Dhyan Chand National Stadium
+Delhi (91)
+Corporation Ground
+Thrissur (91)
+Sector-1
+Noida (90)
+Mandir Marg
+Delhi (89)
+Shahjahan Garden
+Agra (88)
+Loni
+Ghaziabad (88)
+Bidhannagar
+Kolkata (88)
+Pimpleshwar Mandir
+Dombivali
+Thane (88)
+Zoo Park
+Bahadurpura West
+Hyderabad (87)
+GIFT City
+Gandhinagar (87)
+Manoharpur
+Agra (86)
+Sector 30
+Faridabad (86)
+Rabindra Bharati University
+Kolkata (85)
+Victoria
+Kolkata (85)
+Jigar Colony
+Moradabad (85)
+Industrial Area
+Hajipur (85)
+Dr. Karni Singh Shooting Range
+Delhi (84)
+B R Ambedkar University
+Lucknow (83)
+Manali
+Chennai (83)
+Sri Auribindo Marg
+Delhi (82)
+Vile Parle West
+Mumbai (82)
+Sector-D Industrial Area
+Mandideep (82)
+Rajbagh
+Srinagar (82)
+Rabindra Sarobar
+Kolkata (81)
+Naharlagun
+Naharlagun (81)
+PGDAV College
+Sriniwaspuri
+Delhi (81)
+Kukrail Picnic Spot-1
+Lucknow (80)
+BLR-76 (80)
+HIMUDA Complex Phase-1
+Baddi (79)
+Rohta
+Agra (79)
+Sion
+Mumbai (78)
+Shastri Nagar
+Jaipur (78)
+SVPI Airport Hansol
+Ahmedabad (77)
+Polayathode
+Kollam (77)
+City Railway Station
+Bangalore (76)
+New Delhi US Embassy (76)
+Central University
+Hyderabad (75)
+Phase-1 GIDC
+Vapi (74)
+Arumbakkam
+Chennai (73)
+T T Nagar
+Bhopal (72)
+IDA Pashamylaram
+Hyderabad (71)
+NASA_AQCS_138 (70)
+Paryavaran Parisar
+Bhopal (69)
+IITH Kandi
+Hyderabad (69)
+Pan Bazaar
+Guwahati (68)
+Royapuram
+Chennai (66)
+Velachery Res. Area
+Chennai (65)
+Mahape
+Navi Mumbai (65)
+Worli
+Mumbai (65)
+Opp GPO Civil Lines
+Nagpur (65)
+Sector 22
+Chandigarh (65)
+Sanjay Palace
+Agra (64)
+Anand Vihar
+Hapur (64)
+Gandhi Nagar_Ennore
+Chennai (63)
+BLR-103 (62)
+Kodungaiyur
+Chennai (60)
+Indirapuram
+Ghaziabad (60)
+Sector-53
+Chandigarh (60)
+Railway Colony
+Guwahati (59)
+Malad West
+Mumbai (58)
+Powai
+Mumbai (58)
+Jawahar Nagar
+Puducherry (58)
+Gangapur Road
+Nashik (57)
+Kariavattom
+Thiruvananthapuram (57)
+Perungudi
+Chennai (55)
+More Chowk
+Waluj
+Aurangabad (54)
+BETHANY SCH (54)
+Silk Board
+Bengaluru (53)
+Eco Herbal Park
+Moradabad (53)
+Sector-10
+Gandhinagar (53)
+Doon University
+Dehradun (51)
+Chinnapanhalli (50)
+Hebbal
+Bengaluru (50)
+Brigade Road (50)
+Peenya
+Bangalore (47)
+Kalyan Nagar (45)
+Mathikare (40)
+Lumpyngngad
+Shillong (39)
+PWD Juction
+Kohima (38)
+Hombegowda Nagar
+Bengaluru (38)
+SaneguravaHalli
+Bangalore (37)
+Jayanagar 5th Block
+Bengaluru (37)
+NR Colony MH (36)
+Bapuji Nagar
+Bengaluru (35)
+Colaba
+Mumbai (34)
+Mumbai US Consulate (30)
+Zero Point GICI
+Gangtok (28)
+Plammoodu
+Thiruvananthapuram (27)
+Crescent University
+Chengalpattu (25)
+Sikulpuikawn
+Aizawl (19)
+GM Office
+Brajrajnagar (17)
+Sector-19A Nerul
+Navi Mumbai (8)
+Sardar Vallabhbhai Patel Stadium
+Ahmedabad (6) 
