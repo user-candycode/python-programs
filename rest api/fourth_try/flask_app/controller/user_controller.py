@@ -1,12 +1,14 @@
 from app import app
 from model.user_model import User_model
+from model.auth_model import Auth_model
 from flask import request, send_file
 from datetime import datetime
 
 obj = User_model()
-
+auth = Auth_model()
 
 @app.route("/user/getall", methods=["GET"])
+@auth.token_auth("/user/getall")
 def user_getall_controller():
     return obj.user_getall_model()
 
@@ -54,3 +56,8 @@ def user_getavatar_controller(filename):
     return send_file(f"uploads/{filename}")
 
 
+#JWT
+@app.route("/user/login", methods=["POST"])
+def user_login_controller():
+    # request.form
+    return obj.user_login_model(request.form)
