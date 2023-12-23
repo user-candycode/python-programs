@@ -73,3 +73,11 @@ class User_model:
             return res
         else:
              return make_response({"message":"No data found"}, 204)
+
+    def user_upload_avatar_controller(self, uid, filepath):
+        self.cur.execute(f"UPDATE users SET avatar='{filepath}' WHERE id={uid}")
+        if self.cur.rowcount>0:
+            return make_response({"message":"File uploaded Sucessfully"}, 201)
+        else:
+            return make_response({"message":"Didnt uploaded File"}, 202)
+        

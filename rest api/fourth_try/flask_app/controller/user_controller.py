@@ -1,6 +1,7 @@
 from app import app
 from model.user_model import User_model
-from flask import request
+from flask import request, send_file
+from datetime import datetime
 
 obj = User_model()
 
@@ -28,3 +29,28 @@ def user_patch_controller(id):
 @app.route("/user/getall/limit/<limit>/page/<page>", methods=["GET"])
 def user_pagination_controller(limit,page):
     return obj.user_pagination_model(limit, page)
+
+# file options 
+'''
+    1. uploading file from a postman to server 
+    2. saving file into the file system with unique file name
+    3. updating filepath in database with respective entity
+    4. creating end point to read file 
+'''
+@app.route("/user/<uid>/upload/avatar", methods=["PUT"])
+def user_upload_avtar_controller(uid):
+    file = request.files['avatar']
+    # file.save(f"uploads/{file.filename}")
+    uniqueFileName = str(datetime.now().timestamp()).replace(".","")
+    fileNameSplit = file.filename.split(".")
+    ext = fileNameSplit[-1]
+    finalFilePath = f"uploads/{uniqueFileName}.{ext}"
+    file.save(finalFilePath)
+    return obj.user_upload_avatar_controller(uid,finalFilePath)
+
+# routes
+@app.route("/uploads/<filename>")
+def user_getavatar_controller(filename):
+    return send_file(f"uploads/{filename}")
+
+
