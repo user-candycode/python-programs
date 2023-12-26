@@ -94,6 +94,6 @@ class User_model:
             "payload": userdata,
             "exp": exp_epoc_time
         }
-        jwtoken = jwt.encode(payload, "random9898", algorithm="HS256")
+        jwtoken = jwt.encode(payload, "MrK", algorithm="HS256")
         #                              ^ is a secret key (should never be public) 
         return make_response({"token":jwtoken},200)
